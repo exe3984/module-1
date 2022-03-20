@@ -1,1 +1,1 @@
-"this is FileA-hello it also contains major file and also more variables needs to be added" 
+"this is FileA-has version 2" 
